@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<salles>
-	
-       <salle id="1">
-            <salle_nom>Daum</salle_nom>
-            <categorie>1</categorie> 
-        </salle>
+<utilisateurs>
+       <utilisateur id="1">
+            <nom>BANDILELLA</nom>
+            <prenom>CLEMENT</prenom>
+            <structure_id>1</structure_id>
+            <structure_nom>Ligue Volley Ball Lorraine</structure_nom>
+            <structure_adresse>30, rue Widric 1er 54600 Villers lès Nancy</structure_adresse>
+            <mail>cbandilella@llgvolleyball.fr</mail>   
+        </utilisateur>
 	
             <utilisateur id="2">
             <nom>BIACQUEL</nom>
@@ -48,4 +51,8 @@
             <structure_adresse>5 Pl. Aimé Morot 54000 Nancy</structure_adresse>
             <mail>zuel.s@fivesnordon.ue</mail>   
         </utilisateur>
-</salles>
+</utilisateurs>
+
+       
+     
+      
